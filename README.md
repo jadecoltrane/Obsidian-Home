@@ -14,17 +14,35 @@
 - **本周重点**：持续事项记录每天的推进，一次性事项可以完成；进展支持撤销。
 - **生活灵感**：训练建议、餐食灵感与近期笔记入口，让首页也照顾日常生活。
 
+| 勾选与推进前 | 勾选与推进后 |
+| :---: | :---: |
+| <a href="assets/mobile/everyday-plan.jpg"><img src="assets/mobile/everyday-plan.jpg" width="250" alt="勾选与推进前"></a> | <a href="assets/mobile/everyday-progress.jpg"><img src="assets/mobile/everyday-progress.jpg" width="250" alt="勾选与推进后"></a> |
+
 ## YOUR LIBRARY · 让收藏的笔记重新可见
 
 从首页打开笔记分类、搜索标题、查看概念和近期更新的内容，随时回到原笔记。工具入口按需展开，不占用常态阅读空间。
+
+| 标题搜索与分类 | 近期笔记列表 |
+| :---: | :---: |
+| <a href="assets/mobile/library-search.jpg"><img src="assets/mobile/library-search.jpg" width="250" alt="标题搜索与分类"></a> | <a href="assets/mobile/library-recent.jpg"><img src="assets/mobile/library-recent.jpg" width="250" alt="近期笔记列表"></a> |
 
 ## DAILY ART · 每天给自己一间小小的美术馆
 
 每天遇见一幅画。先在首页欣赏完整作品和简短介绍，再进入沉浸式赏画界面，放大细节、拖动画面，按需展开作品的背景与故事。手机端的讲解采用可调节的底部卡片，画面与阅读共享空间。
 
+| 首页作品卡 | 展开背景与讲解 |
+| :---: | :---: |
+| <a href="assets/mobile/daily-art-home.jpg"><img src="assets/mobile/daily-art-home.jpg" width="250" alt="首页作品卡"></a> | <a href="assets/mobile/daily-art-details.jpg"><img src="assets/mobile/daily-art-details.jpg" width="250" alt="展开背景与讲解"></a> |
+
+截图中的画作为弗朗西斯科·德·戈雅的《着衣的玛哈》，现藏于普拉多博物馆。
+
 ## NEWS · 让外部世界进入日常
 
 用横滑简讯卡片浏览经过筛选的内容，保留分类、摘要和原文入口。不是追求无限信息流，而是让有限的阅读更有方向。
+
+| 横滑浏览简讯 |
+| :---: |
+| <a href="assets/mobile/news-carousel.jpg"><img src="assets/mobile/news-carousel.jpg" width="380" alt="横滑浏览简讯"></a> |
 
 ## TODAY'S EXPLORATION · 让知识主动回来找你
 
@@ -37,9 +55,21 @@
 | 🌱 今日延伸 | 从已有兴趣出发，探索尚未接触的知识。 |
 | 📖 今日一读 | 串联、比较已有观点，形成新的理解与行动落点。 |
 
+| 随机重逢 | 今日抽卡 |
+| :---: | :---: |
+| <a href="assets/mobile/exploration-rediscover.jpg"><img src="assets/mobile/exploration-rediscover.jpg" width="250" alt="随机重逢"></a> | <a href="assets/mobile/exploration-flashcard.jpg"><img src="assets/mobile/exploration-flashcard.jpg" width="250" alt="今日抽卡"></a> |
+
+| 今日延伸 | 今日一读 |
+| :---: | :---: |
+| <a href="assets/mobile/exploration-discover.jpg"><img src="assets/mobile/exploration-discover.jpg" width="250" alt="今日延伸"></a> | <a href="assets/mobile/exploration-daily-read.jpg"><img src="assets/mobile/exploration-daily-read.jpg" width="250" alt="今日一读"></a> |
+
 ## YOUR YEAR · 从今天到一整年的生活地图
 
 生活不是一张需要填满的进度表。月度看板汇总已经安排的事情，并与实际完成区分；年度地图收拢方向、愿望、书影音和真正发生的生活足迹。
+
+| 月度安排 | 年度方向与愿望 | 年度足迹与回望 |
+| :---: | :---: | :---: |
+| <a href="assets/mobile/month-dashboard.jpg"><img src="assets/mobile/month-dashboard.jpg" width="205" alt="月度安排"></a> | <a href="assets/mobile/year-overview.jpg"><img src="assets/mobile/year-overview.jpg" width="205" alt="年度方向与愿望"></a> | <a href="assets/mobile/year-review.jpg"><img src="assets/mobile/year-review.jpg" width="205" alt="年度足迹与回望"></a> |
 
 ## Design philosophy · 设计理念
 
@@ -62,7 +92,7 @@
 
 如果你也希望每天打开的是一个既能安排生活、又能阅读与探索的空间，欢迎 **Star** 收藏这个项目，或在 [Issues](https://github.com/jadecoltrane/Obsidian-Home/issues) 分享你最想使用的功能。
 
-手机端实机截图已整理，待发布；桌面截图与交互录屏将根据实际素材补充。独立可安装模板、售价与发布时间尚未确定。
+上文手机端截图使用演示数据，点击可查看大图。独立可安装模板、售价与发布时间尚未确定。
 
 ---
 
