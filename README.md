@@ -1,39 +1,37 @@
+<p align="center"><strong>Personal Magazine</strong> · 手机实机预览</p>
+
+<h1 align="center">一个每天都想打开的 Obsidian 首页</h1>
+
+<p align="center">安排今天，看一幅画，再遇见一篇快忘了的旧笔记。</p>
+
 <p align="center">
-  <img src="assets/personal-magazine-cover.webp" width="900" alt="Personal Magazine · 私人数字刊物。把日子过成喜欢的样子。封面展示今日计划与每日赏画的手机实机画面。">
+  <a href="assets/README.md"><strong>看手机实机预览 ↗</strong></a>
+  &nbsp;·&nbsp;
+  <a href="#关注上架">关注上架</a>
 </p>
 
 <p align="center">
-  一个为自己做的 Obsidian 首页。<br>
-  打开它，看看今天想做什么。也可以看一幅画，或和过去写下的一句话重逢。
+  <a href="assets/README.md"><img src="assets/product-preview.webp" width="900" alt="Personal Magazine 手机实机预览。左边是当天的计划和已完成事项，右边是可点开赏读的戈雅画作。"></a>
 </p>
 
-<p align="center">
-  <a href="assets/README.md"><strong>翻看手机实机图册&nbsp; ↗</strong></a> &nbsp;·&nbsp;
-  <a href="docs/design-notes.md">设计笔记</a>
-</p>
+## 打开后的几分钟
 
-### 给今天留一点空间
+**先看看今天。** 勾掉一项待办，记下本周推进了哪一步，或者就在首页写一段日记。训练建议和晚饭灵感也在这一页。
 
-打开首页就能写日记，把想做的事一件件勾掉。本周想慢慢推进的事，也有地方记下今天走了哪一步。旁边还留了两个小位置，给今天的训练和一顿想吃的晚饭。
+**给自己留一幅画的时间。** 从完整画作看到笔触和布料，再拉开说明读画里的故事。想换换脑子，也能抽一道问题，或读到一篇从旧笔记里翻出来的新线索。
 
-### 每天看一幅画，重读一篇笔记
+**过一阵，再回来看。** 月度看板分开记录计划和实际做过的事。到了年底，翻一翻读过的书、看过的展、实现的愿望，还有那些没写进计划的生活片段。
 
-赏画从一张完整的画开始。想看清布料的纹理，就放大一点。想知道画里的人是谁，就拉开底部的作品故事。
+[看今天计划、赏画、知识探索和年度生活地图的实机画面 →](assets/README.md)
 
-随手翻翻简讯，或在「今日探索」里抽一道问题、重遇一篇旧笔记。也可以沿着一条感兴趣的线索读下去，看看两篇旧笔记放在一起会想到什么。
+## 关注上架
 
-<p align="center">
-  <a href="assets/mobile/daily-art-details.jpg"><img src="assets/mobile/daily-art-details.jpg" width="235" alt="每日赏画 · 查看《着衣的玛哈》的画面细节与作品故事"></a>
-  &nbsp;
-  <a href="assets/mobile/exploration-daily-read.jpg"><img src="assets/mobile/exploration-daily-read.jpg" width="215" alt="今日一读 · 两篇关于记录与回想的笔记，以及一个当天就能做的小练习"></a>
-</p>
+现在公开的是日常使用中的个人版本预览。正式模板计划付费发布，价格、上架时间和安装要求会在发布时公布。
 
-### 到年底，再回头看看
+想收到上架消息，可在仓库顶部选择 **Watch → Custom → Releases**。
 
-月度看板收拢本月的安排和实际做过的事。到了年末，可以翻回那些读过的书、看过的展、想实现的愿望，还有一些没排进计划、却值得记住的小事。
+[查看发布页 →](https://github.com/jadecoltrane/Obsidian-Home/releases)
 
 ---
 
-Personal Magazine 是一个正在日常使用的独立设计项目，目前开放设计展示。个人版本用 Markdown、CSS snippets 和 DataviewJS 搭建，部分日更内容由独立的 AI 工作流更新。可安装模板尚未发布。
-
-喜欢这个首页，可以点个 **Star** 留着慢慢看，也欢迎在 [Issues](https://github.com/jadecoltrane/Obsidian-Home/issues) 告诉我，你最想把哪个角落搬进自己的 Obsidian。
+现有个人版本基于 Obsidian、Markdown、CSS snippets 和 DataviewJS。部分内容日更依赖独立的 AI 工作流。[阅读设计笔记 →](docs/design-notes.md)
