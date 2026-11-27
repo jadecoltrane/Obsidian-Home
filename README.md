@@ -7,11 +7,11 @@
 
 一页日常是一套为 Obsidian 设计的个人生活工作台。它不只整理待办与笔记，也为每天留下一点阅读、艺术和思考的空间。
 
-## 01 · 选择喜欢的色彩
+## 01 · 随主题自然变色
 
-封面展示浅粉主题，另有淡紫、雾蓝、暖橙与深色可选。不同的主题气质，同一套日常体验。桌面与移动端采用一致的设计语言，布局随屏幕调整。
+首页配色随 Obsidian 当前主题的强调色自动变化，并适配浅色与深色模式，无需单独设置首页配色。封面的浅粉与下图的淡紫、雾蓝、暖橙等，都是不同主题配色下的实际呈现。桌面与移动端采用一致的设计语言，布局随屏幕调整。
 
-<p align="center"><a href="assets/showcase/palette-neutral.svg"><img src="assets/showcase/palette-neutral.svg?v=soft-blush" width="100%" alt="四种主题的真实移动端首页"></a></p>
+<p align="center"><a href="assets/showcase/palette-neutral.svg"><img src="assets/showcase/palette-neutral.svg?v=soft-blush" width="100%" alt="不同主题配色下的真实移动端首页"></a></p>
 
 ## 02 · 把日子过得井井有条
 
