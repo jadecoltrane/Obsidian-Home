@@ -30,7 +30,7 @@
 
 <p align="center"><img src="assets/showcase/everyday.svg" width="100%" alt="手机首页的两种状态：展开日记和编辑本周重点"></p>
 
-<p align="center"><a href="assets/showcase/quick-access.svg"><img src="assets/showcase/quick-access.svg" width="100%" alt="三个首页快捷入口，以及最新笔记和最近浏览的真实展开状态。点开看大图。"></a></p>
+<p align="center"><a href="assets/showcase/quick-access.svg"><img src="assets/showcase/quick-access.svg" width="100%" alt="首页的最新笔记、最近浏览和今日编辑快捷入口，以及三个真实展开状态。点开看大图。"></a></p>
 
 <p align="center"><a href="assets/showcase/notebook-search.svg"><img src="assets/showcase/notebook-search.svg" width="100%" alt="真实手机首页的两种展开状态。左侧是笔记标题搜索和分类数量，右侧是每日概念卡片。点开看大图。"></a></p>
 
