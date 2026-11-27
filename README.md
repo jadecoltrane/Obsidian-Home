@@ -18,7 +18,7 @@
 
 日记和实际进展是回顾的起点。当月的计划与发生过的事分别保留，月看板把它们放在一起看。到了季度，可以并读几个月的记录，回顾会放进相应的月看板。年看板再用一年的尺度回看曾经在意的事、实现的心愿和留下的记录。
 
-<p align="center"><a href="assets/showcase/information-flow.svg"><img src="assets/showcase/information-flow.svg" width="100%" alt="记录的时间线，从当天的日记和实际进展，到月看板、季度回望和年看板。点开看大图。"></a></p>
+<p align="center"><a href="assets/showcase/information-flow.svg"><img src="assets/showcase/information-flow.svg" width="100%" alt="记录流转流程图。当天的日记与实际进展汇入月看板，再展开季度与年度回望。季度回望收在对应的月看板里。点开看大图。"></a></p>
 
 **回顾怎么生成**　AI 根据对应时间范围内已有的记录提炼内容。月回顾看具体安排和经历，季度回望看几个月之间的变化，年度回顾把全年值得留下的主题和经历串起来。月底想起某个细节，还能从看板回到当月日记。
 
