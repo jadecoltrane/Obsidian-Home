@@ -26,11 +26,11 @@
 
 **日常怎么生成**　工作流从每周写下的自然语言里拆出持续事项和一次性安排，整理本周重点，并结合已有记录形成每日安排。首页按当天日期显示计划和日记，实际进展和日记仍由我更新，并留在对应的日期里。
 
-<p align="center"><img src="assets/showcase/everyday.svg" width="100%" alt="手机首页的两种状态：展开日记和编辑本周重点"></p>
+<p align="center"><a href="assets/showcase/everyday.svg"><img src="assets/showcase/everyday.svg" width="100%" alt="日常生活：真实手机首页的日记与本周重点编辑状态。点开看大图。"></a></p>
 
 <p align="center"><a href="assets/showcase/quick-access.svg"><img src="assets/showcase/quick-access.svg" width="100%" alt="首页的最新笔记、最近浏览和今日编辑快捷入口，以及三个真实展开状态。点开看大图。"></a></p>
 
-<p align="center"><a href="assets/showcase/notebook-search.svg"><img src="assets/showcase/notebook-search.svg" width="100%" alt="真实手机首页的两种展开状态。左侧是笔记标题搜索和分类数量，右侧是每日概念卡片。点开看大图。"></a></p>
+<p align="center"><a href="assets/showcase/notebook-search.svg"><img src="assets/showcase/notebook-search.svg" width="100%" alt="真实手机首页的两种展开状态。上方是笔记标题搜索和分类数量，下方是每日概念卡片。点开看大图。"></a></p>
 
 ## 每日艺术与新闻
 
@@ -44,7 +44,7 @@
 
 在手机上左右滑动看下一张剪报。卡片下方的**四个圆点**显示翻到哪里，高亮的是当前页。先读标题和短摘要，感兴趣再点开卡片里的来源。电脑宽屏上可以同时看见四张新闻卡片，不需要翻页。
 
-<p align="center"><a href="assets/showcase/news.svg"><img src="assets/showcase/news.svg" width="100%" alt="新闻剪报的电脑与手机真实界面对照：左侧四张新闻卡片并排，右侧露出下一张卡片并保留四个分页位置。点开看大图。"></a></p>
+<p align="center"><a href="assets/showcase/news.svg"><img src="assets/showcase/news.svg" width="100%" alt="新闻剪报的电脑与手机真实界面对照：上方电脑四张新闻卡片并排，下方手机横滑卡片保留分页位置。点开看大图。"></a></p>
 
 ## 今日探索
 
