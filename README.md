@@ -2,125 +2,104 @@
 
 **一个由 AI 协作驱动的个人知识与生活系统。**
 
-以 Markdown 和 Git 为长期记忆底座，以 Obsidian 为日常交互界面。把生活计划、真实经历、知识探索与艺术阅读放进同一个持续生长的数字空间。
+用 Obsidian 阅读与记录生活，用 Markdown 和 Git 保存长期记忆，让 AI 协助整理、检索与回望。界面可以变化，模型可以更换，积累下来的知识与经历始终属于自己。
 
-<p align="center"><a href="assets/showcase/cover-neutral.svg"><img src="assets/showcase/cover-neutral.svg" width="100%" alt="一页日常：个人记忆与生活系统，真实桌面和手机首页"></a></p>
+<p align="center"><a href="assets/showcase/cover-editorial.svg"><img src="assets/showcase/cover-editorial.svg" width="100%" alt="一页日常：桌面首页、移动端、每日一画与知识探索卡"></a></p>
 
-`Markdown + Git` · `Obsidian / DataviewJS` · `Python / BM25` · `GitHub Actions` · `AI 工作流`
+## 01 · 产品体验
 
-## 设计初衷
+记忆的价值不只是被保存，更在于能够再次被使用。一页日常把计划、生活记录、艺术阅读与知识探索放在同一个日常入口。
 
-我想做的不是另一个待办清单，也不是一个只负责收藏的知识库。生活里的计划、经历和曾经思考过的事，应该能够在日常中再次相遇。
+**从一句话开始。** 每周用自然语言写下想做的事，AI 将明确日期的安排与持续推进的事项分别整理。每天记录真实进展，随时调整计划；晚上写几句日记，留下真正发生的事。
 
-因此，我把系统分成三个相互独立又彼此关联的部分：**人决定生活如何进行，AI 协助整理与发现，数据始终保留在自己的记忆库中。** 界面可以变化，模型可以更换，过去留下的记录仍然可以读取、检索和回望。
+**每天发现一点新东西。** 每日一画将作品与展签并置，新闻剪报保留原文入口。知识探索则通过随机重逢、主动回想、主题延伸和今日一读，让旧笔记重新进入今天。
 
-## 系统架构
+<p align="center"><a href="assets/showcase/art-news-neutral.svg"><img src="assets/showcase/art-news-neutral.svg" width="100%" alt="每日一画：真实画幅与作品展签"></a></p>
 
-一页日常是私人 Memory 系统的可视化入口，而不是长期记忆本身。后台以纯文本文件与 Git 版本历史保存数据，前端通过 Obsidian、DataviewJS 和 CSS 呈现交互；AI 则通过授权的仓库访问与统一协作规则进行按需读写。
-
-<p align="center"><a href="assets/showcase/system-architecture-neutral.svg"><img src="assets/showcase/system-architecture-neutral.svg" width="100%" alt="架构示意：AI 协作与工作流、Markdown/Git 数据层、检索与 Obsidian 体验层、质量校验"></a></p>
-
-- **数据与模型解耦**：笔记、概念、画像与日记均保存在 Markdown 中，不依赖某一模型的内置记忆。
-- **统一协作协议**：以共享的 AGENTS.md 为入口，兼容其他 AI 工具的规则入口，先读索引，再按任务加载相关上下文。
-- **数据与界面分离**：日常页面读取源数据，自动化任务按契约更新指定内容，不随日更重写固定布局。
-
-## 从一句话开始
-
-> 下周想每天读十分钟，周末去看一场展，再找时间整理灵感照片。
-
-每周写下一段自然语言，AI 将明确日期的安排与需要持续推进的事项分别整理。每天打开首页，看看今日计划、本周重点、训练建议与午餐灵感；晚上写几句日记，留下当天真正发生的事。
-
-持续事项可以记录进展，一次性事项可以标记完成。计划与实际行动分别保存，避免把想做的事误当成已经发生的事实。
-
-<p align="center"><a href="assets/showcase/everyday-neutral.svg"><img src="assets/showcase/everyday-neutral.svg" width="100%" alt="本周重点与日记的真实编辑界面"></a></p>
-
-交互并非只读看板：计划支持原位编辑、完成与撤销，实际进展从日期记录恢复。写入时校验源数据，避免覆盖其他日期或并发修改。
-
-## 每天发现一点新东西
-
-日常不只有待办事项。首页也留出一块空间，用来接触生活之外的世界。
-
-**每日一画** — 从一幅画开始，慢慢看它的构图、细节与故事。画幅与展签相伴，像是每天经过一间小小的美术馆。
-
-<p align="center"><a href="assets/showcase/art-news-neutral.svg"><img src="assets/showcase/art-news-neutral.svg" width="100%" alt="每日一画的桌面界面：画幅与作品展签"></a></p>
-
-**新闻剪报** — 几则每日新闻，先读摘要，再沿着感兴趣的话题继续阅读。电脑上并排浏览，手机上逐张翻阅。
-
-<p align="center"><a href="assets/showcase/news-neutral.svg"><img src="assets/showcase/news-neutral.svg" width="100%" alt="新闻剪报的桌面与手机界面"></a></p>
-
-## 让知识持续生长
-
-长期记忆不只是存储，还要能够重新找到、理解和使用。Memory 将概念作为知识关联的枢纽，以概念枢纽式结构组织笔记，并通过概念别名扩展检索范围。
-
-<p align="center"><a href="assets/showcase/knowledge-engine-neutral.svg"><img src="assets/showcase/knowledge-engine-neutral.svg" width="100%" alt="概念枢纽与 BM25 检索流程示意，使用虚构节点而非私人知识图谱"></a></p>
-
-检索脚本使用中文二元组与英文分词、BM25 相关度排序和概念别名扩展，返回相关原文片段。它以 Python 标准库实现，无需外部向量数据库或嵌入 API；现阶段优先保持可移植性与低依赖。
-
-在界面上，「今日探索」把知识重新带回日常：**随机重逢**带回旧笔记，**今日抽卡**唤起主动回想，**今日延伸**引向新的问题，**今日一读**提供新的理解视角。每种探索都保留来源入口。
-
-<p align="center"><a href="assets/showcase/exploration-neutral.svg"><img src="assets/showcase/exploration-neutral.svg" width="100%" alt="今日探索：随机重逢、今日抽卡、今日延伸与今日一读"></a></p>
+<p align="center"><a href="assets/showcase/exploration-neutral.svg"><img src="assets/showcase/exploration-neutral.svg" width="100%" alt="随机重逢、今日抽卡、今日延伸与今日一读"></a></p>
 
 <details>
-<summary>笔记浏览、搜索与概念入口</summary>
+<summary>查看日常计划、日记编辑与新闻剪报</summary>
 
-<p align="center"><a href="assets/showcase/quick-access-neutral.svg"><img src="assets/showcase/quick-access-neutral.svg" width="100%" alt="最新笔记、最近浏览与今日编辑"></a></p>
+<p align="center"><a href="assets/showcase/everyday-neutral.svg"><img src="assets/showcase/everyday-neutral.svg" width="100%" alt="日记编辑与本周重点的真实操作状态"></a></p>
 
-<p align="center"><a href="assets/showcase/notebook-search-neutral.svg"><img src="assets/showcase/notebook-search-neutral.svg" width="100%" alt="标题搜索、分类与每日概念卡片"></a></p>
+<p align="center"><a href="assets/showcase/news-neutral.svg"><img src="assets/showcase/news-neutral.svg" width="100%" alt="新闻剪报：桌面并读和移动端翻阅"></a></p>
 
 </details>
 
-## 随时间运转的系统
+## 02 · 系统架构
 
-自动化任务不是不断生成更多文字，而是让不同时间尺度上的信息有明确归宿。每日更新内容，每周整理计划并维护记忆，每月、每季度和每年依据原始记录进行回望。
+首页并不是记忆本身，而是长期记忆系统的交互出口。架构分离数据、AI 协作、检索与界面：数据保存在独立的 Git 仓库中，AI 依据统一规则按需访问，Obsidian 负责日常呈现和操作。
 
-<p align="center"><a href="assets/showcase/automation-rhythm-neutral.svg"><img src="assets/showcase/automation-rhythm-neutral.svg" width="100%" alt="每日、每周、每月、季度、年度的自动化任务契约"></a></p>
+<p align="center"><a href="assets/showcase/architecture-editorial.svg"><img src="assets/showcase/architecture-editorial.svg" width="100%" alt="系统四层职责：协作、检索与调度、持久化数据、体验与校验"></a></p>
 
-调度与执行规则分离：任务定义、数据范围、写入边界与校验约定保留在记忆库中，同一周期任务只允许一个生产执行器。更换具备授权和相应能力的 AI，不需要迁移个人记忆本身。
-
-## 从今天，到一年
-
-**月看板**把当初想做的事与真实发生的事放在一起。季度回望比较数月间的变化，并回到关键原始记录核实。
-
-<p align="center"><a href="assets/showcase/month-neutral.svg"><img src="assets/showcase/month-neutral.svg" width="100%" alt="月看板：方向、安排与回顾"></a></p>
-
-**年看板**是一张更长时间尺度的生活地图。想去的地方、想尝试的事、实现的心愿，以及读过的书、看过的电影和听过的音乐，都有自己的位置。
-
-<p align="center"><a href="assets/showcase/year-neutral.svg"><img src="assets/showcase/year-neutral.svg" width="100%" alt="年看板：年度方向、愿望池、已实现心愿与书影音"></a></p>
-
-年末回头看，留下的不只是完成清单，还有逐渐形成的兴趣与生活轨迹。长期回望不将 AI 建议当作实践，也不以计划推断完成。
-
-## 让记忆保持可靠
-
-长期使用 AI，难点不只是让它记住更多，而是防止重复、错误与未经确认的推断逐渐污染记忆。
-
-<p align="center"><a href="assets/showcase/memory-lifecycle-neutral.svg"><img src="assets/showcase/memory-lifecycle-neutral.svg" width="100%" alt="记忆生命周期：采集、分类、持久化、检索、复核与用户裁决"></a></p>
-
-| 机制 | 实现 |
+| 设计决策 | 为什么这样做 |
 | --- | --- |
-| 分类与权限 | 画像与知识笔记分开维护；收藏、归档及删除遵循用户授权边界。 |
-| 知识维护 | 周期性检查重复笔记、概念别名与关联，保留事实与推论的区别；需人工决策的变更交由使用者裁决。 |
-| 可追溯性 | Git 版本记录、原文链接、来源与复核状态让变更可以追查。 |
-| 自动化质量检查 | Python lint 检查断链、元数据（frontmatter）与结构约束；GitHub Actions 配置了回归测试与索引重建。 |
-| 安全写入 | 约定读取最新版本、校验数据与处理并发冲突；日记作为真实记录，不参与自动去重合并。 |
+| Markdown + Git | 保留可读、可迁移的原始记录与版本历史，不依赖单个模型的内置记忆。 |
+| 统一协作入口 | 使用 AGENTS.md 共享读写规则；先读索引，再加载相关上下文，避免无关信息占用上下文。 |
+| 数据与界面分离 | 自动化只更新约定的数据字段和内容，日常更新不重写固定布局。 |
 
-## 同一种体验，不同的屏幕
+## 03 · 核心技术
 
-桌面上展开阅读，手机上随手记录。纸面、细分隔线、画作与剪报构成统一的视觉语言；保留丰富的编辑式细节，同时尊重移动端与桌面的阅读节奏。
+### 检索与概念网络
 
-<p align="center"><a href="assets/showcase/palette-neutral.svg"><img src="assets/showcase/palette-neutral.svg" width="100%" alt="手机首页的淡紫、雾蓝、暖橙与深色主题"></a></p>
+笔记以概念为枢纽建立关联，检索通过概念别名扩展查询，并使用中文二元组分词、英文分词和 BM25 相关度排序返回原文片段。
 
-首页跟随 Obsidian 的浅色、深色主题与强调色变化。交互层在兼容情况下复用渲染实例、保留分页与展开状态；当增强功能不可用时，仍尽量保留原始 Markdown 内容。
+<p align="center"><a href="assets/showcase/knowledge-editorial.svg"><img src="assets/showcase/knowledge-editorial.svg" width="100%" alt="概念枢纽、别名扩展与 BM25 检索机制"></a></p>
 
-## 技术栈
+**为什么不直接采用向量数据库？** 当前的个人知识库以可读文本和概念关联为基础。BM25 与别名扩展可用 Python 标准库实现，无需额外服务和嵌入 API；语义关联来自概念组织，相关度来自检索算法。这样做保留了低依赖与可迁移性，但不能等同于向量语义搜索。
 
-| 层级 | 技术与设计 |
+<details>
+<summary>查看笔记浏览、标题搜索与概念入口</summary>
+
+<p align="center"><a href="assets/showcase/quick-access-neutral.svg"><img src="assets/showcase/quick-access-neutral.svg" width="100%" alt="最新笔记、最近浏览与今日编辑"></a></p>
+
+<p align="center"><a href="assets/showcase/notebook-search-neutral.svg"><img src="assets/showcase/notebook-search-neutral.svg" width="100%" alt="标题搜索、分类与每日概念"></a></p>
+
+</details>
+
+### 自动化与记忆治理
+
+日、周、月、季、年有各自的任务契约。调度与执行规则分离，同一个周期任务只允许一个生产执行器。不同 AI 可以按授权和能力接入，但不会因此迁移或复制记忆数据。
+
+<p align="center"><a href="assets/showcase/automation-rhythm-neutral.svg"><img src="assets/showcase/automation-rhythm-neutral.svg" width="100%" alt="每日、每周、每月、季度与年度任务契约"></a></p>
+
+长期记忆的可靠性比单纯增加记忆数量更重要。写入前核对最新版本与授权范围，维护时区分事实、推论、重复候选与用户裁决。
+
+<p align="center"><a href="assets/showcase/governance-editorial.svg"><img src="assets/showcase/governance-editorial.svg" width="100%" alt="记忆写入与复核机制，以及计划和事实的边界"></a></p>
+
+- **结构校验**：Python lint 检查断链、元数据和结构约束，GitHub Actions 配置回归测试及索引重建。
+- **语义维护**：周期性检查重复、概念别名与事实证据，未经明确授权不自动归档或删除。
+- **原始记录保护**：日记不参与自动去重合并；计划不能作为完成证据，实际推进与一次性完成分别记录。
+
+## 04 · 交互设计
+
+这不是静态仪表盘。真实界面支持计划的原位编辑、完成与撤销，并从原始日期记录恢复状态。桌面与手机共享数据和设计逻辑，而不是各自维护一套记录。
+
+<p align="center"><a href="assets/showcase/palette-neutral.svg"><img src="assets/showcase/palette-neutral.svg" width="100%" alt="四种主题下的真实移动端首页"></a></p>
+
+| 实现难点 | 处理方式 |
 | --- | --- |
-| 数据层 | Markdown、YAML frontmatter、Git |
-| 界面层 | Obsidian、DataviewJS、CSS、响应式布局 |
-| 检索层 | Python、BM25、中文二元组、概念别名 |
-| AI 协作 | 共享规则入口、上下文按需加载、任务契约 |
-| 自动化与校验 | GitHub Actions、索引生成、lint、回归测试 |
+| DataviewJS 重绘导致状态丢失 | 兼容时复用渲染实例，保留分页、展开和编辑状态；只在相关数据发生变化时更新。 |
+| 多端写入可能覆盖原始记录 | 保存前核对最新源数据与相关日期，拒绝冲突，保留其他日期及历史内容。 |
+| 移动端与桌面布局不同 | 根据实际容器调整网格和横向阅读方式，保留原生触控及键盘入口。 |
+| 增强交互不可用 | 尽量回退原始 Markdown，而不是让内容依赖某个界面组件才可读。 |
 
-本仓库是公开的产品展示；实际记忆数据、AI 工作流规范与实现位于独立私有仓库，不在此处公开。架构图为机制示意，任务时间轴描述工作流契约，不代表对每次调度的运行状态作出保证。
+## 05 · 长期回望
 
-<sub>产品界面均为已有实机截图；展示图采用中性编辑式设计；技术信息图为机制示意。</sub>
+每天的日记与实际进展是原始事实层，月度、季度和年度回望是不同时间尺度的观察，不把计划和 AI 建议误当作实践。月度看板将当时的方向与真实经历放在一起，年度地图则保留愿望、足迹和书影音。
+
+<p align="center"><a href="assets/showcase/month-neutral.svg"><img src="assets/showcase/month-neutral.svg" width="100%" alt="月度看板：方向、安排与回顾"></a></p>
+
+<details>
+<summary>查看年度生活地图</summary>
+
+<p align="center"><a href="assets/showcase/year-neutral.svg"><img src="assets/showcase/year-neutral.svg" width="100%" alt="年度地图：愿望、足迹与书影音"></a></p>
+
+</details>
+
+---
+
+**实现技术**：Markdown · Git · YAML · Obsidian · DataviewJS · CSS · Python · BM25 · GitHub Actions
+
+<sub>本仓库是公开的产品展示，实际记忆数据与 AI 工作流规范位于独立私有仓库。界面来自已有实机截图，技术图为机制示意；任务契约不代表每次调度的实际运行结果。</sub>
