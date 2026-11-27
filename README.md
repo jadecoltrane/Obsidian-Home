@@ -2,7 +2,7 @@
 
 Obsidian Home 是一个放在 Obsidian 里的个人首页。每周写几句想做的事，AI 把它们整理成本周重点和每日安排。每天打开首页，可以看今天要做什么、记下真正发生的事，也可以看一幅画或重读一条旧笔记。日子久了，月看板和年看板会把散落的记录放回一条时间线上。
 
-<p align="center"><a href="assets/showcase/cover.svg"><img src="assets/showcase/cover.svg" width="100%" alt="手机首页示意。展示日常计划、日记、训练和餐食、艺术与新闻、四个探索入口、资料库搜索及月年看板。点开看大图。"></a></p>
+<p align="center"><a href="assets/showcase/cover.svg"><img src="assets/showcase/cover.svg" width="480" alt="一张手机首页示意长图。向下依次看搜索、日常与日记、本周重点、艺术与新闻、四个探索入口和月年看板。点开看大图。"></a></p>
 
 ## 从一句话开始
 
@@ -32,29 +32,23 @@ Obsidian Home 是一个放在 Obsidian 里的个人首页。每周写几句想�
 
 存进 Obsidian 的笔记，也可以换个方式再读一次。想随手翻翻，可以选随机重逢。想检验自己到底记得多少，可以抽一道题。想多读一点，还有顺着一个问题往外找资料，以及把旧笔记从头读一遍的入口。手机上通过页签切换，电脑上可以同时看到当前卡片和其他入口。
 
+<p align="center"><a href="assets/showcase/exploration.svg"><img src="assets/showcase/exploration.svg" width="100%" alt="今日探索纵向合图，包含随机重逢、今日抽卡、今日延伸和今日一读四个手机端真实界面。点开看大图。"></a></p>
+
 ### 随机重逢
 
-随机翻出一条旧笔记，看看它是什么时候写下的。比如再次遇见「把灵感变成小实验」，先读卡片上的一小段，也可以点回原笔记，找回当时是怎么想到这个点子的。
-
-<p align="center"><img src="assets/showcase/exploration-rediscover.svg" width="100%" alt="随机重逢的旧笔记卡片与创建时间"></p>
+随机翻出一条旧笔记，看看它是什么时候写下的。比如再次遇见「把阅读变成一次主动回想」，先读卡片上的一小段，也可以点回原笔记，找回当时是怎么想到这个点子的。
 
 ### 今日抽卡
 
 从读过的内容里抽一道问题，例如「为什么合上书后先回想内容？」题面先留给你一点思考时间，想好了再打开参考答案。卡片也保留笔记来源，想弄清某个观点的来龙去脉，可以读回原文。
 
-<p align="center"><img src="assets/showcase/exploration-flashcard.svg" width="100%" alt="今日抽卡的题面和参考答案入口"></p>
-
 ### 今日延伸
 
 从原笔记里的一个想法多走一步。例如「一座城市也可以是一间美术馆」这张卡，从一次普通散步出发，把门窗、光线和材料变成可以留心观察的东西。卡片一并留下参考资料和原笔记，读完可以继续追下去。
 
-<p align="center"><img src="assets/showcase/exploration-discover.svg" width="100%" alt="今日延伸的关联问题与参考资料入口"></p>
-
 ### 今日一读
 
 从一个问题、反例或新联系出发，重新读熟悉的笔记。「记录生活，是为了收藏还是为了重新看见？」就从一条关于给日常留白的笔记里展开。首页先给一段摘录，有兴趣可以展开全文，再回到那条引出问题的原笔记。
-
-<p align="center"><img src="assets/showcase/exploration-daily-read.svg" width="100%" alt="今日一读的笔记摘录与展开全文入口"></p>
 
 ## 月看板 / 年看板
 
