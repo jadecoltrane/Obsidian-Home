@@ -1,7 +1,5 @@
 # 一页日常
 
-这是我给 Obsidian 做的自定义 Home 页。我用 **Dataview 插件**读取和展示笔记里的内容，页面样式用的是**自己写的 CSS**。
-
 打开首页，可以看今天有什么安排、写几句日记、欣赏一幅画，或翻到一条旧笔记。每周写下想做的事，独立的 AI 工作流会帮我整理成本周重点和每日安排。时间久了，还可以从月看板和年看板回看留下的记录。
 
 <p align="center"><a href="assets/showcase/cover.svg"><img src="assets/showcase/cover.svg" width="100%" alt="一页日常。两张真实截图展示 Obsidian 自定义首页的桌面和手机界面。点开看大图。"></a></p>
