@@ -2,7 +2,7 @@
 
 Obsidian Home 是一个放在 Obsidian 里的个人首页。每周写几句想做的事，AI 把它们整理成本周重点和每日安排。每天打开首页，可以看今天要做什么、记下真正发生的事，也可以看一幅画或重读一条旧笔记。日子久了，月看板和年看板会把散落的记录放回一条时间线上。
 
-<p align="center"><a href="assets/showcase/cover.svg"><img src="assets/showcase/cover.svg" width="480" alt="一张手机首页示意长图。向下依次看搜索、日常与日记、本周重点、艺术与新闻、四个探索入口和月年看板。点开看大图。"></a></p>
+<p align="center"><a href="assets/showcase/cover.svg"><img src="assets/showcase/cover.svg" width="100%" alt="中央为完整的手机首页原图，周围是艺术与新闻、资料库搜索、探索和月年看板的实机界面局部。点开看大图。"></a></p>
 
 ## 从一句话开始
 
@@ -32,11 +32,11 @@ Obsidian Home 是一个放在 Obsidian 里的个人首页。每周写几句想�
 
 存进 Obsidian 的笔记，也可以换个方式再读一次。想随手翻翻，可以选随机重逢。想检验自己到底记得多少，可以抽一道题。想多读一点，还有顺着一个问题往外找资料，以及把旧笔记从头读一遍的入口。手机上通过页签切换，电脑上可以同时看到当前卡片和其他入口。
 
-<p align="center"><a href="assets/showcase/exploration.svg"><img src="assets/showcase/exploration.svg" width="100%" alt="今日探索纵向合图，包含随机重逢、今日抽卡、今日延伸和今日一读四个手机端真实界面。点开看大图。"></a></p>
+<p align="center"><a href="assets/showcase/exploration.svg"><img src="assets/showcase/exploration.svg" width="100%" alt="今日探索的四张原展示图纵向相接，依次呈现随机重逢、今日抽卡、今日延伸和今日一读。点开看大图。"></a></p>
 
 ### 随机重逢
 
-随机翻出一条旧笔记，看看它是什么时候写下的。比如再次遇见「把阅读变成一次主动回想」，先读卡片上的一小段，也可以点回原笔记，找回当时是怎么想到这个点子的。
+随机翻出一条旧笔记，看看它是什么时候写下的。比如再次遇见「把灵感变成小实验」，先读卡片上的一小段，也可以点回原笔记，找回当时是怎么想到这个点子的。
 
 ### 今日抽卡
 
@@ -70,4 +70,4 @@ Obsidian Home 是一个放在 Obsidian 里的个人首页。每周写几句想�
 
 <p align="center"><a href="assets/showcase/palette.svg"><img src="assets/showcase/palette.svg" width="100%" alt="淡紫、雾蓝、暖橙和深色主题下的四张完整手机首页首屏。点开看大图。"></a></p>
 
-<sub>当前为产品演示。AI 整理与内容更新由独立工作流负责。封面为功能示意，章节配图使用真实界面截图。</sub>
+<sub>当前为产品演示。AI 整理与内容更新由独立工作流负责。封面和章节中的产品界面均取自实机截图。</sub>
