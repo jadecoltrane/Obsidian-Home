@@ -46,9 +46,7 @@
 
 在手机上左右滑动看下一张剪报。卡片下方的**四个圆点**显示翻到哪里，高亮的是当前页。先读标题和短摘要，感兴趣再点开卡片里的来源。电脑上可以同时看见两张卡片。
 
-<p align="center"><a href="assets/desktop/daily-art-and-news.png"><img src="assets/desktop/daily-art-and-news.png" width="100%" alt="真实的电脑首页界面：每日一画下方的 NEWS 新闻剪报，两张新闻卡片并排显示。点开看大图。"></a></p>
-
-<p align="center"><a href="assets/showcase/news.svg"><img src="assets/showcase/news.svg" width="100%" alt="真实的手机新闻剪报。右侧露出下一张卡片，下方有四个分页位置，当前页高亮。左右滑动可以翻页。"></a></p>
+<p align="center"><a href="assets/showcase/news.svg"><img src="assets/showcase/news.svg" width="100%" alt="新闻剪报的电脑与手机真实界面对照：左侧两张新闻卡片并排，右侧露出下一张卡片并保留四个分页位置。点开看大图。"></a></p>
 
 ## 今日探索
 
