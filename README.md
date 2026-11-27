@@ -4,7 +4,7 @@
 
 打开首页，可以看今天有什么安排、写几句日记、欣赏一幅画，或翻到一条旧笔记。每周写下想做的事，独立的 AI 工作流会帮我整理成本周重点和每日安排。时间久了，还可以从月看板和年看板回看留下的记录。
 
-<p align="center"><a href="assets/showcase/cover.svg"><img src="assets/showcase/cover.svg" width="100%" alt="一页日常。使用 Dataview 与自写 CSS 的 Obsidian 自定义首页，配图为完整的真实手机首页。点开看大图。"></a></p>
+<p align="center"><a href="assets/showcase/cover.svg"><img src="assets/showcase/cover.svg" width="100%" alt="一页日常。两张真实截图展示 Obsidian 自定义首页的桌面和手机界面。点开看大图。"></a></p>
 
 ## 从一句话开始
 
@@ -13,6 +13,12 @@
 **每周写一次。** AI 会从这段话里分出持续事项和一次性安排。「每天读十分钟」可以持续记录进展，「周末去看展」是做完就能划掉的一件事。整理后的内容放进本周重点，和每天打开首页时看到的安排相连。
 
 **平时记录发生了什么。** 照片整理到一半，或临时换了一个展，都可以在日记或进展里留一笔。月底回看时，当初想做什么和后来做了什么都找得到。艺术、新闻和知识探索由另一条工作流更新，想阅读的时候，打开首页就有一个起点。
+
+## 我的信息怎么流动
+
+我写下的每周意愿、日记和进展，会进入安排与回顾。另一条工作流从已有笔记和外部阅读资料中更新艺术、新闻和探索。Dataview 把这些内容显示在 Home 上。在首页写下的新日记和进展，又成为下次回看时的记录。
+
+<p align="center"><a href="assets/showcase/information-flow.svg"><img src="assets/showcase/information-flow.svg" width="100%" alt="信息流图。日常记录与阅读素材分别经 AI 工作流整理，由 Dataview 展示到 Obsidian Home。首页写下的新日记与进展回到日常记录。点开看大图。"></a></p>
 
 ## 日常生活
 
@@ -28,7 +34,7 @@
 
 电脑上把画幅和展签并排放，可以边看构图和细节，边读作者、年代和作品简介。手机上点开「看懂这幅画」，可以用更大的画面赏画，再往下读创作背景和作品故事。
 
-<p align="center"><a href="assets/showcase/art-news.svg"><img src="assets/showcase/art-news.svg" width="100%" alt="每日一画。电脑端的《着衣的玛哈》完整画幅与展签，右侧是手机端的沉浸式赏画。"></a></p>
+<p align="center"><a href="assets/showcase/art-news.svg"><img src="assets/showcase/art-news.svg" width="100%" alt="每日一画。大图为《着衣的玛哈》完整画幅，右侧展示手机端的创作背景节选。"></a></p>
 
 ### 新闻剪报
 
