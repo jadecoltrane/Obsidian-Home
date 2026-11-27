@@ -5,11 +5,11 @@
 
 <p align="center"><a href="assets/showcase/cover-editorial.svg"><img src="assets/showcase/cover-editorial.svg" width="100%" alt="一页日常 · 桌面与移动端实机展示"></a></p>
 
-一页日常是一套为 Obsidian 设计的个人生活工作台。它不只整理待办与笔记，也为每天留下一点阅读、艺术和思考的空间。
+一页日常是一套为 Obsidian 设计的个人生活工作台。它不只整理待办与笔记，也为每天留下一点阅读、艺术和思考的空间。以柔和的玫瑰粉作为品牌主视觉，保留不同主题，让每个人都可以选择自己的日常气质。
 
 ## 01 · 选择喜欢的色彩
 
-淡紫、雾蓝、暖橙与深色。不同的主题气质，同一套日常体验。桌面与移动端采用一致的设计语言，布局随屏幕调整。
+淡紫、雾蓝、暖橙与深色。首页的色彩可以随个人喜好选择，不必跟随展示页的粉色。不同的主题气质，同一套日常体验。桌面与移动端采用一致的设计语言，布局随屏幕调整。
 
 <p align="center"><a href="assets/showcase/palette-neutral.svg"><img src="assets/showcase/palette-neutral.svg" width="100%" alt="四种主题的真实移动端首页"></a></p>
 
