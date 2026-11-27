@@ -1,63 +1,7 @@
-# Personal Magazine · 实机图册
+# Personal Magazine · 展示素材
 
-[← 返回产品首页](../README.md) · [设计笔记](../docs/design-notes.md)
+[← 返回产品首页](../README.md) · [设计思路](../docs/design-notes.md)
 
-本页按使用情境展示手机及电脑界面。已核对的界面采用演示数据；新闻为演示专题。点击图片查看展示图。含系统状态栏的已核对手机截图使用裁切视图；原始 PNG 不修改，仍保留在 mobile/ 和 desktop/。
+主要内容与双端展示集中在产品首页。展示图使用 UX 模型，不再在文档中展示或链接完整实机截图。原始素材仅保留供维护与追溯使用。
 
-## 01 · 刊头与生活区
-
-| 手机首页 | 较早的首页状态 | 深色首页 |
-| :---: | :---: | :---: |
-| <a href="display/mobile/everyday-overview.svg"><img src="display/mobile/everyday-overview.svg" width="230" alt="手机首页"></a> | <a href="display/mobile/everyday-overview-earlier.svg"><img src="display/mobile/everyday-overview-earlier.svg" width="230" alt="较早的手机首页状态"></a> | <a href="display/mobile/dark-everyday.svg"><img src="display/mobile/dark-everyday.svg" width="230" alt="深色手机首页"></a> |
-
-| 电脑首页 | 首页展开日记 |
-| :---: | :---: |
-| <a href="desktop/everyday-overview.png"><img src="desktop/everyday-overview.png" width="420" alt="电脑首页"></a> | <a href="desktop/everyday-diary.png"><img src="desktop/everyday-diary.png" width="420" alt="日记编辑"></a> |
-
-## 02 · 知识库入口
-
-| 标题搜索与分类 | 概念入口 | 最新笔记 |
-| :---: | :---: | :---: |
-| <a href="display/mobile/library-search.svg"><img src="display/mobile/library-search.svg" width="230" alt="标题搜索"></a> | <a href="display/mobile/library-concepts.svg"><img src="display/mobile/library-concepts.svg" width="230" alt="概念入口"></a> | <a href="display/mobile/library-recent.svg"><img src="display/mobile/library-recent.svg" width="230" alt="最新笔记"></a> |
-
-| 电脑搜索分类 | 电脑最新笔记 | 电脑最近浏览 |
-| :---: | :---: | :---: |
-| <a href="desktop/library-search.png"><img src="desktop/library-search.png" width="290" alt="电脑搜索分类"></a> | <a href="desktop/library-recent.png"><img src="desktop/library-recent.png" width="290" alt="电脑最新笔记"></a> | <a href="desktop/library-history.png"><img src="desktop/library-history.png" width="290" alt="电脑最近浏览"></a> |
-
-## 03 · 每日画作与新闻
-
-<p align="center"><a href="desktop/daily-art-and-news.png"><img src="desktop/daily-art-and-news.png" width="850" alt="电脑画作展签与新闻双卡"></a></p>
-
-手机的新闻横滑状态可在下方探索图册中看到。
-
-## 04 · 今日探索
-
-| 随机重逢 | 今日抽卡 | 今日延伸 | 今日一读 |
-| :---: | :---: | :---: | :---: |
-| <a href="mobile/exploration-rediscover.png"><img src="mobile/exploration-rediscover.png" width="190" alt="手机随机重逢"></a> | <a href="display/mobile/exploration-flashcard.svg"><img src="display/mobile/exploration-flashcard.svg" width="190" alt="手机今日抽卡"></a> | <a href="mobile/exploration-discover.png"><img src="mobile/exploration-discover.png" width="190" alt="手机今日延伸"></a> | <a href="display/mobile/exploration-daily-read.svg"><img src="display/mobile/exploration-daily-read.svg" width="190" alt="手机今日一读"></a> |
-
-| 电脑随机重逢 | 电脑今日抽卡 |
-| :---: | :---: |
-| <a href="desktop/exploration-rediscover.png"><img src="desktop/exploration-rediscover.png" width="420" alt="电脑随机重逢"></a> | <a href="desktop/exploration-flashcard.png"><img src="desktop/exploration-flashcard.png" width="420" alt="电脑今日抽卡"></a> |
-
-| 电脑今日延伸 | 电脑今日一读 |
-| :---: | :---: |
-| <a href="desktop/exploration-discover.png"><img src="desktop/exploration-discover.png" width="420" alt="电脑今日延伸"></a> | <a href="desktop/exploration-daily-read.png"><img src="desktop/exploration-daily-read.png" width="420" alt="电脑今日一读"></a> |
-
-<p align="center"><a href="display/mobile/dark-exploration.svg"><img src="display/mobile/dark-exploration.svg" width="230" alt="深色新闻和探索"></a></p>
-
-## 05 · 月度与年度
-
-| 手机月度看板 | 手机年度地图 | 深色月度看板 | 深色年度地图 |
-| :---: | :---: | :---: | :---: |
-| <a href="mobile/month-dashboard.png"><img src="mobile/month-dashboard.png" width="190" alt="手机月度生活看板"></a> | <a href="mobile/year-map.png"><img src="mobile/year-map.png" width="190" alt="手机年度生活地图"></a> | <a href="mobile/dark-month-dashboard.png"><img src="mobile/dark-month-dashboard.png" width="190" alt="深色月度看板"></a> | <a href="mobile/dark-year-map.png"><img src="mobile/dark-year-map.png" width="190" alt="深色年度地图"></a> |
-
-| 电脑月度看板 | 电脑年度地图 |
-| :---: | :---: |
-| <a href="desktop/month-dashboard.png"><img src="desktop/month-dashboard.png" width="420" alt="电脑月度生活看板"></a> | <a href="desktop/year-map.png"><img src="desktop/year-map.png" width="420" alt="电脑年度生活地图"></a> |
-
-## 补充原图
-
-[手机补充截图](mobile/additional/) · [电脑补充截图](desktop/additional/) · [早期预览拼图](product-preview.webp)
-
-补充原图保留原始文件名；四张大图暂未能读取图像内容，未裁切、未纳入公开展示排版。
+当前展示模型位于 `showcase/`，分别对应首页双主题、日常生活、每日艺术与新闻、知识探索。
