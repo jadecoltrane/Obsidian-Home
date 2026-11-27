@@ -1,9 +1,10 @@
-<p align="center"><a href="assets/README.md"><img src="assets/editorial-cover.svg" width="100%" alt="Personal Magazine 产品封面：每日画作与手机生活首页，实机演示数据"></a></p>
-
+<p align="center"><sub>PERSONAL MAGAZINE · OBSIDIAN HOME</sub></p>
 <h1 align="center">把每天的生活，过成一份自己的杂志。</h1>
-<p align="center">Personal Magazine · 为 Obsidian 设计的个人生活与知识首页</p>
-<p align="center"><strong><a href="#关注上架">关注上架 →</a></strong> &nbsp; · &nbsp; <a href="assets/README.md">实机图册</a> &nbsp; · &nbsp; <a href="docs/design-notes.md">设计笔记</a></p>
-<p align="center"><sub>产品预览 · 完整模板尚未上架 · 桌面与手机 · 浅色与深色</sub></p>
+<p align="center">生活、艺术与知识探索，在同一个阅读空间里。</p>
+<p align="center"><a href="assets/README.md">实机图册</a> · <a href="docs/design-notes.md">设计笔记</a> · <a href="#关注上架">关注上架</a></p>
+
+<p align="center"><a href="assets/README.md"><img src="assets/editorial-cover.svg" width="100%" alt="真实电脑日记编辑状态及手机首页，已裁去手机状态栏"></a></p>
+<p align="center"><sub>实机界面 · 演示数据 · 桌面与手机 · 完整模板筹备中</sub></p>
 
 ---
 
@@ -26,11 +27,11 @@ Personal Magazine 将生活、审美与知识放在同一个阅读空间里。�
 
 在日常之外，给自己留一段艺术时间：完整画作、作品展签、沉浸式放大与背景阅读。新闻剪报则提供少量了解外部世界的线索，而不是无限滚动的信息流。
 
-<p align="center"><a href="assets/desktop/everyday-overview.png">查看电脑实机首页</a> &nbsp; · &nbsp; <a href="assets/desktop/daily-art-and-news.png">查看每日艺术与新闻</a> &nbsp; · &nbsp; <a href="assets/mobile/everyday-overview.png">查看手机首页</a></p>
+<p align="center"><a href="assets/desktop/everyday-overview.png">查看电脑实机首页</a> &nbsp; · &nbsp; <a href="assets/desktop/daily-art-and-news.png">查看每日艺术与新闻</a> &nbsp; · &nbsp; <a href="assets/display/mobile/everyday-overview.svg">查看手机首页</a></p>
 
 ## 02 / 让你的知识库重新成为一个有趣的地方
 
-<p align="center"><a href="assets/README.md"><img src="assets/editorial-spread.svg" width="100%" alt="编辑式跨页展示：深色知识探索和浅色年度生活地图，真实界面局部"></a></p>
+<p align="center"><a href="assets/README.md"><img src="assets/editorial-spread.svg" width="100%" alt="实机每日画作和深色知识探索局部"></a></p>
 
 | 阅读方式 | 你可以做什么 |
 | :--- | :--- |
@@ -49,6 +50,8 @@ Personal Magazine 将生活、审美与知识放在同一个阅读空间里。�
 
 计划和真实发生的事分开记录。生活不只有完成率，也有那些原本没有列进清单、却值得留下来的瞬间。
 
+<p align="center"><a href="assets/README.md"><img src="assets/editorial-year.svg" width="100%" alt="真实年度生活地图的浅色与深色主题对照"></a></p>
+
 [月度生活看板](assets/desktop/month-dashboard.png) · [年度生活地图](assets/desktop/year-map.png)
 
 ## 04 / 为不同的阅读情境设计
@@ -57,7 +60,7 @@ Personal Magazine 将生活、审美与知识放在同一个阅读空间里。�
 
 <p align="center"><a href="assets/README.md"><strong>浏览完整实机图册 →</strong></a></p>
 
-> 展示图为真实界面局部的编辑式组合，使用演示数据；新闻是演示专题。原始截图及更多交互状态保留在实机图册中。
+> 展示采用真实界面截图、等比裁切和重新排版，不重绘 UI。手机展示图裁去可见系统状态栏。画作局部来自早期实机预览，新闻为演示专题。原图保留在仓库。
 
 ## 关注上架
 

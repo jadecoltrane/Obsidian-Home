@@ -2,13 +2,13 @@
 
 [← 返回产品首页](../README.md) · [设计笔记](../docs/design-notes.md)
 
-本页按使用情境展示手机及电脑界面。已核对的界面采用演示数据；新闻为演示专题。点击图片查看原图。未裁切、转码或压缩新上传的原始文件。
+本页按使用情境展示手机及电脑界面。已核对的界面采用演示数据；新闻为演示专题。点击图片查看展示图。含系统状态栏的已核对手机截图使用裁切视图；原始 PNG 不修改，仍保留在 mobile/ 和 desktop/。
 
 ## 01 · 刊头与生活区
 
 | 手机首页 | 较早的首页状态 | 深色首页 |
 | :---: | :---: | :---: |
-| <a href="mobile/everyday-overview.png"><img src="mobile/everyday-overview.png" width="230" alt="手机首页"></a> | <a href="mobile/everyday-overview-earlier.png"><img src="mobile/everyday-overview-earlier.png" width="230" alt="较早的手机首页状态"></a> | <a href="mobile/dark-everyday.png"><img src="mobile/dark-everyday.png" width="230" alt="深色手机首页"></a> |
+| <a href="display/mobile/everyday-overview.svg"><img src="display/mobile/everyday-overview.svg" width="230" alt="手机首页"></a> | <a href="display/mobile/everyday-overview-earlier.svg"><img src="display/mobile/everyday-overview-earlier.svg" width="230" alt="较早的手机首页状态"></a> | <a href="display/mobile/dark-everyday.svg"><img src="display/mobile/dark-everyday.svg" width="230" alt="深色手机首页"></a> |
 
 | 电脑首页 | 首页展开日记 |
 | :---: | :---: |
@@ -18,7 +18,7 @@
 
 | 标题搜索与分类 | 概念入口 | 最新笔记 |
 | :---: | :---: | :---: |
-| <a href="mobile/library-search.png"><img src="mobile/library-search.png" width="230" alt="标题搜索"></a> | <a href="mobile/library-concepts.png"><img src="mobile/library-concepts.png" width="230" alt="概念入口"></a> | <a href="mobile/library-recent.png"><img src="mobile/library-recent.png" width="230" alt="最新笔记"></a> |
+| <a href="display/mobile/library-search.svg"><img src="display/mobile/library-search.svg" width="230" alt="标题搜索"></a> | <a href="display/mobile/library-concepts.svg"><img src="display/mobile/library-concepts.svg" width="230" alt="概念入口"></a> | <a href="display/mobile/library-recent.svg"><img src="display/mobile/library-recent.svg" width="230" alt="最新笔记"></a> |
 
 | 电脑搜索分类 | 电脑最新笔记 | 电脑最近浏览 |
 | :---: | :---: | :---: |
@@ -34,7 +34,7 @@
 
 | 随机重逢 | 今日抽卡 | 今日延伸 | 今日一读 |
 | :---: | :---: | :---: | :---: |
-| <a href="mobile/exploration-rediscover.png"><img src="mobile/exploration-rediscover.png" width="190" alt="手机随机重逢"></a> | <a href="mobile/exploration-flashcard.png"><img src="mobile/exploration-flashcard.png" width="190" alt="手机今日抽卡"></a> | <a href="mobile/exploration-discover.png"><img src="mobile/exploration-discover.png" width="190" alt="手机今日延伸"></a> | <a href="mobile/exploration-daily-read.png"><img src="mobile/exploration-daily-read.png" width="190" alt="手机今日一读"></a> |
+| <a href="mobile/exploration-rediscover.png"><img src="mobile/exploration-rediscover.png" width="190" alt="手机随机重逢"></a> | <a href="display/mobile/exploration-flashcard.svg"><img src="display/mobile/exploration-flashcard.svg" width="190" alt="手机今日抽卡"></a> | <a href="mobile/exploration-discover.png"><img src="mobile/exploration-discover.png" width="190" alt="手机今日延伸"></a> | <a href="display/mobile/exploration-daily-read.svg"><img src="display/mobile/exploration-daily-read.svg" width="190" alt="手机今日一读"></a> |
 
 | 电脑随机重逢 | 电脑今日抽卡 |
 | :---: | :---: |
@@ -44,7 +44,7 @@
 | :---: | :---: |
 | <a href="desktop/exploration-discover.png"><img src="desktop/exploration-discover.png" width="420" alt="电脑今日延伸"></a> | <a href="desktop/exploration-daily-read.png"><img src="desktop/exploration-daily-read.png" width="420" alt="电脑今日一读"></a> |
 
-<p align="center"><a href="mobile/dark-exploration.png"><img src="mobile/dark-exploration.png" width="230" alt="深色新闻和探索"></a></p>
+<p align="center"><a href="display/mobile/dark-exploration.svg"><img src="display/mobile/dark-exploration.svg" width="230" alt="深色新闻和探索"></a></p>
 
 ## 05 · 月度与年度
 
@@ -60,4 +60,4 @@
 
 [手机补充截图](mobile/additional/) · [电脑补充截图](desktop/additional/) · [早期预览拼图](product-preview.webp)
 
-补充原图保留原始文件名，暂未加入模块图文展示。
+补充原图保留原始文件名；四张大图暂未能读取图像内容，未裁切、未纳入公开展示排版。
