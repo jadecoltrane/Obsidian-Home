@@ -1,8 +1,8 @@
-# Assets
+# Daybook · Assets
 
-- `mobile/`、`desktop/`：真实截图原图。
+- `mobile/`、`desktop/`：真实界面原图与裁切素材。
 - `themes/`：紫、蓝、暖橙主题原图。
-- `showcase/`：README 使用的真实截图裁切与展示外框；不重绘界面。
-- `additional/`：连接器暂无法读取的原图，保留待核对。
+- `showcase/`：README 使用的十张主题海报；所有 UI 来自真实截图，白色手机外框、模拟状态栏、海报文字和背景是展示设计。
+- `additional/`：未核对的大图，保留原始素材。
 
-新上传的电脑浅色首页已归档为 `desktop/home-light-new.png`。另外两张新图保留在对应 additional 目录；尚未读取内容，不做内容命名或使用。
+探索区的四个状态均保留对应手机和电脑原图。独立展示不使用重绘 UI。
