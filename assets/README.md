@@ -1,57 +1,63 @@
-# 手机实机图册
+# Personal Magazine · 实机图册
 
-[← 返回 Personal Magazine](../README.md)
+[← 返回产品首页](../README.md) · [设计笔记](../docs/design-notes.md)
 
-截图使用演示数据。点击任意图片可查看大图。
+本页按使用情境展示手机及电脑界面。已核对的界面采用演示数据；新闻为演示专题。点击图片查看原图。未裁切、转码或压缩新上传的原始文件。
 
-## 今天与这一周
+## 01 · 刊头与生活区
 
-把勾选与推进前后的状态放在一起。持续事项记录每天的进度，一次性事项可以完成，也能撤销。
-
-| 勾选与推进前 | 勾选与推进后 |
-| :---: | :---: |
-| <a href="mobile/everyday-plan.jpg"><img src="mobile/everyday-plan.jpg" width="250" alt="勾选与推进前"></a> | <a href="mobile/everyday-progress.jpg"><img src="mobile/everyday-progress.jpg" width="250" alt="勾选与推进后"></a> |
-
-## 随手翻笔记
-
-从首页按标题搜索、查看分类或翻看最近更新的笔记。
-
-| 标题搜索与分类 | 近期笔记列表 |
-| :---: | :---: |
-| <a href="mobile/library-search.jpg"><img src="mobile/library-search.jpg" width="250" alt="标题搜索与分类"></a> | <a href="mobile/library-recent.jpg"><img src="mobile/library-recent.jpg" width="250" alt="近期笔记列表"></a> |
-
-## 每日赏画
-
-点进作品后可以放大细节、拖动画面，或展开作品背景与故事。画作为戈雅的《着衣的玛哈》，现藏于普拉多博物馆。
-
-| 首页作品卡 | 展开背景与讲解 |
-| :---: | :---: |
-| <a href="mobile/daily-art-home.jpg"><img src="mobile/daily-art-home.jpg" width="250" alt="首页作品卡"></a> | <a href="mobile/daily-art-details.jpg"><img src="mobile/daily-art-details.jpg" width="250" alt="展开背景与讲解"></a> |
-
-## 横滑简讯
-
-每张卡片保留分类、摘要与原文入口。
-
-| 横滑浏览简讯 |
-| :---: |
-| <a href="mobile/news-carousel.jpg"><img src="mobile/news-carousel.jpg" width="380" alt="横滑浏览简讯"></a> |
-
-## 今日探索
-
-四种打开旧笔记和发现新知识的方式，每天可以换一种。
-
-| 随机重逢 | 今日抽卡 |
-| :---: | :---: |
-| <a href="mobile/exploration-rediscover.jpg"><img src="mobile/exploration-rediscover.jpg" width="250" alt="随机重逢"></a> | <a href="mobile/exploration-flashcard.jpg"><img src="mobile/exploration-flashcard.jpg" width="250" alt="今日抽卡"></a> |
-
-| 今日延伸 | 今日一读 |
-| :---: | :---: |
-| <a href="mobile/exploration-discover.jpg"><img src="mobile/exploration-discover.jpg" width="250" alt="今日延伸"></a> | <a href="mobile/exploration-daily-read.jpg"><img src="mobile/exploration-daily-read.jpg" width="250" alt="今日一读"></a> |
-
-## 月度与年度
-
-从本月安排一路翻到年度方向、愿望、书影音和真正发生的生活足迹。
-
-| 月度安排 | 年度方向与愿望 | 年度足迹与回望 |
+| 手机首页 | 较早的首页状态 | 深色首页 |
 | :---: | :---: | :---: |
-| <a href="mobile/month-dashboard.jpg"><img src="mobile/month-dashboard.jpg" width="205" alt="月度安排"></a> | <a href="mobile/year-overview.jpg"><img src="mobile/year-overview.jpg" width="205" alt="年度方向与愿望"></a> | <a href="mobile/year-review.jpg"><img src="mobile/year-review.jpg" width="205" alt="年度足迹与回望"></a> |
+| <a href="mobile/everyday-overview.png"><img src="mobile/everyday-overview.png" width="230" alt="手机首页"></a> | <a href="mobile/everyday-overview-earlier.png"><img src="mobile/everyday-overview-earlier.png" width="230" alt="较早的手机首页状态"></a> | <a href="mobile/dark-everyday.png"><img src="mobile/dark-everyday.png" width="230" alt="深色手机首页"></a> |
+
+| 电脑首页 | 首页展开日记 |
+| :---: | :---: |
+| <a href="desktop/everyday-overview.png"><img src="desktop/everyday-overview.png" width="420" alt="电脑首页"></a> | <a href="desktop/everyday-diary.png"><img src="desktop/everyday-diary.png" width="420" alt="日记编辑"></a> |
+
+## 02 · 知识库入口
+
+| 标题搜索与分类 | 概念入口 | 最新笔记 |
+| :---: | :---: | :---: |
+| <a href="mobile/library-search.png"><img src="mobile/library-search.png" width="230" alt="标题搜索"></a> | <a href="mobile/library-concepts.png"><img src="mobile/library-concepts.png" width="230" alt="概念入口"></a> | <a href="mobile/library-recent.png"><img src="mobile/library-recent.png" width="230" alt="最新笔记"></a> |
+
+| 电脑搜索分类 | 电脑最新笔记 | 电脑最近浏览 |
+| :---: | :---: | :---: |
+| <a href="desktop/library-search.png"><img src="desktop/library-search.png" width="290" alt="电脑搜索分类"></a> | <a href="desktop/library-recent.png"><img src="desktop/library-recent.png" width="290" alt="电脑最新笔记"></a> | <a href="desktop/library-history.png"><img src="desktop/library-history.png" width="290" alt="电脑最近浏览"></a> |
+
+## 03 · 每日画作与新闻
+
+<p align="center"><a href="desktop/daily-art-and-news.png"><img src="desktop/daily-art-and-news.png" width="850" alt="电脑画作展签与新闻双卡"></a></p>
+
+手机的新闻横滑状态可在下方探索图册中看到。
+
+## 04 · 今日探索
+
+| 随机重逢 | 今日抽卡 | 今日延伸 | 今日一读 |
+| :---: | :---: | :---: | :---: |
+| <a href="mobile/exploration-rediscover.png"><img src="mobile/exploration-rediscover.png" width="190" alt="手机随机重逢"></a> | <a href="mobile/exploration-flashcard.png"><img src="mobile/exploration-flashcard.png" width="190" alt="手机今日抽卡"></a> | <a href="mobile/exploration-discover.png"><img src="mobile/exploration-discover.png" width="190" alt="手机今日延伸"></a> | <a href="mobile/exploration-daily-read.png"><img src="mobile/exploration-daily-read.png" width="190" alt="手机今日一读"></a> |
+
+| 电脑随机重逢 | 电脑今日抽卡 |
+| :---: | :---: |
+| <a href="desktop/exploration-rediscover.png"><img src="desktop/exploration-rediscover.png" width="420" alt="电脑随机重逢"></a> | <a href="desktop/exploration-flashcard.png"><img src="desktop/exploration-flashcard.png" width="420" alt="电脑今日抽卡"></a> |
+
+| 电脑今日延伸 | 电脑今日一读 |
+| :---: | :---: |
+| <a href="desktop/exploration-discover.png"><img src="desktop/exploration-discover.png" width="420" alt="电脑今日延伸"></a> | <a href="desktop/exploration-daily-read.png"><img src="desktop/exploration-daily-read.png" width="420" alt="电脑今日一读"></a> |
+
+<p align="center"><a href="mobile/dark-exploration.png"><img src="mobile/dark-exploration.png" width="230" alt="深色新闻和探索"></a></p>
+
+## 05 · 月度与年度
+
+| 手机月度看板 | 手机年度地图 | 深色月度看板 | 深色年度地图 |
+| :---: | :---: | :---: | :---: |
+| <a href="mobile/month-dashboard.png"><img src="mobile/month-dashboard.png" width="190" alt="手机月度生活看板"></a> | <a href="mobile/year-map.png"><img src="mobile/year-map.png" width="190" alt="手机年度生活地图"></a> | <a href="mobile/dark-month-dashboard.png"><img src="mobile/dark-month-dashboard.png" width="190" alt="深色月度看板"></a> | <a href="mobile/dark-year-map.png"><img src="mobile/dark-year-map.png" width="190" alt="深色年度地图"></a> |
+
+| 电脑月度看板 | 电脑年度地图 |
+| :---: | :---: |
+| <a href="desktop/month-dashboard.png"><img src="desktop/month-dashboard.png" width="420" alt="电脑月度生活看板"></a> | <a href="desktop/year-map.png"><img src="desktop/year-map.png" width="420" alt="电脑年度生活地图"></a> |
+
+## 补充原图
+
+[手机补充截图](mobile/additional/) · [电脑补充截图](desktop/additional/) · [早期预览拼图](product-preview.webp)
+
+补充原图保留原始文件名，暂未加入模块图文展示。
