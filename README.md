@@ -1,128 +1,77 @@
-<p align="center"><strong>PERSONAL MAGAZINE</strong> · Obsidian 个人杂志</p>
+<p align="center"><a href="assets/README.md"><img src="assets/editorial-cover.svg" width="100%" alt="Personal Magazine 产品封面：每日画作与手机生活首页，实机演示数据"></a></p>
 
-<h1 align="center">一个每天都想打开的 Obsidian 首页</h1>
+<h1 align="center">把每天的生活，过成一份自己的杂志。</h1>
+<p align="center">Personal Magazine · 为 Obsidian 设计的个人生活与知识首页</p>
+<p align="center"><strong><a href="#关注上架">关注上架 →</a></strong> &nbsp; · &nbsp; <a href="assets/README.md">实机图册</a> &nbsp; · &nbsp; <a href="docs/design-notes.md">设计笔记</a></p>
+<p align="center"><sub>产品预览 · 完整模板尚未上架 · 桌面与手机 · 浅色与深色</sub></p>
 
-<p align="center">安排今天，看一幅画，读一点世界的消息，再遇见一篇快忘了的旧笔记。</p>
+---
 
-<p align="center">
-  <a href="assets/README.md">手机与电脑实机图册</a> ·
-  <a href="docs/design-notes.md">设计笔记</a> ·
-  <a href="#关注上架">关注上架</a>
-</p>
+## 不是另一个待办清单。
 
-<p align="center">
-  <a href="assets/desktop/everyday-overview.png"><img src="assets/desktop/everyday-overview.png" width="900" alt="Personal Magazine 电脑首页：今日计划、本月方向与每日画作"></a>
-</p>
+打开 Obsidian，可以不只是为了查找笔记或完成任务。也可以安排今天，欣赏一幅画，读一点世界的消息，再遇见一篇快忘了的旧笔记。
 
-## 设计思路｜把知识库变成一份个人杂志
+Personal Magazine 将生活、审美与知识放在同一个阅读空间里。像翻阅杂志一样，从自己的今天出发，看看外面的世界，再回到自己的内心与知识。
 
-一个知识库可以存下很多东西，但收藏本身不意味着我们还会回去阅读。一个计划系统可以列出很多任务，但生活也不只由待办组成。
+| **EVERYDAY** | **DAILY ART & NEWS** | **EXPLORATION** |
+| :--- | :--- | :--- |
+| 今天有方向，也有余白。 | 每天为好奇心留一点时间。 | 让收藏的知识重新流动。 |
+| 今日计划 · 周重点 · 月方向 · 日记 | 画作展签 · 沉浸赏画 · 新闻剪报 | 随机重逢 · 抽卡 · 延伸 · 一读 |
 
-Personal Magazine 想把 Obsidian 的首页做成一个有日常生活、审美体验和知识探索的个人空间。打开它不一定要搜索、写作或完成任务，也可以只是看一幅画，读一段文字，或看看最近自己在关心什么。
+## 01 / 日常的仪式感
 
-页面采用杂志式的阅读顺序：**从自己的今天出发，看看外面的世界，再回到自己的知识。** 月度与年度看板把这些日常片段放回更长的时间尺度。
+**在一天开始的时候，知道自己想怎么过。**
 
-视觉上借鉴纸本杂志、手账与美术馆展签：衬线字、轻薄边框、留白、低饱和主题色，以及新闻剪报、拍立得、票根、和纸信笺等细节。不同形式服务于不同阅读方式，而不是用装饰堆满页面。
+把今日待办、每周重点、本月方向与日记放在一处。持续事项按天记录进展，一次性事项可以标记完成；今日战果可以撤销。训练建议和餐食灵感减少一些日常选择的摩擦。
 
-## 01 · 刊头与知识库入口
+在日常之外，给自己留一段艺术时间：完整画作、作品展签、沉浸式放大与背景阅读。新闻剪报则提供少量了解外部世界的线索，而不是无限滚动的信息流。
 
-问候、日期、笔记数、概念数和双链数构成杂志的刊头。统计也是入口：按标题搜索、按分类浏览，或查看概念与知识之间的联系。最新笔记、最近浏览和今日编辑则放在轻量书签中，按需打开。
+<p align="center"><a href="assets/desktop/everyday-overview.png">查看电脑实机首页</a> &nbsp; · &nbsp; <a href="assets/desktop/daily-art-and-news.png">查看每日艺术与新闻</a> &nbsp; · &nbsp; <a href="assets/mobile/everyday-overview.png">查看手机首页</a></p>
 
-设计重点是让已有知识容易找到，又不让管理工具占据整个首页。
+## 02 / 让你的知识库重新成为一个有趣的地方
 
-<p align="center">
-  <a href="assets/mobile/library-search.png"><img src="assets/mobile/library-search.png" width="230" alt="按标题搜索与分类"></a>
-  <a href="assets/mobile/library-concepts.png"><img src="assets/mobile/library-concepts.png" width="230" alt="概念入口"></a>
-  <a href="assets/mobile/library-recent.png"><img src="assets/mobile/library-recent.png" width="230" alt="最新笔记"></a>
-</p>
+<p align="center"><a href="assets/README.md"><img src="assets/editorial-spread.svg" width="100%" alt="编辑式跨页展示：深色知识探索和浅色年度生活地图，真实界面局部"></a></p>
 
-## 02 · EVERYDAY｜今天怎么过
+| 阅读方式 | 你可以做什么 |
+| :--- | :--- |
+| 随机重逢 | 偶遇一篇曾经喜欢的笔记，再读一遍。 |
+| 今日抽卡 | 先回忆，再翻看参考答案。 |
+| 今日延伸 | 顺着已有兴趣发现一个新的问题。 |
+| 今日一读 | 通过串联、复核或新的视角重读已有知识。 |
 
-首页的生活区把三个时间层次放在一起：本月方向、每周重点、今日计划。它们分别回答想往哪里走、这一周推进什么、今天具体做什么。
+刊头的笔记、概念和双链统计也是知识入口；标题搜索、分类、最近浏览和今日编辑放在轻量书签中。知识不只被存起来，也有机会重新出现在生活里。
 
-持续事项可以按天记录推进，一次性事项可以标记完成；今日待办可勾选，已经记录的进展可以撤销。日记直接在首页展开书写。训练建议与餐食灵感放在同一个区域，帮助减少日常选择的摩擦。
+[探索区实机图册 →](assets/README.md#04--今日探索)
 
-这里不追求每天把清单全部打勾。比完成率更重要的是看见自己真实做过的事。
+## 03 / 不只记录今天，也看见一年
 
-<p align="center">
-  <a href="assets/mobile/everyday-overview.png"><img src="assets/mobile/everyday-overview.png" width="250" alt="手机今日计划、战果与每周重点"></a>
-  <a href="assets/desktop/everyday-diary.png"><img src="assets/desktop/everyday-diary.png" width="540" alt="电脑首页直接展开日记"></a>
-</p>
+月度生活看板让本月方向、每周安排、日记和回望彼此连通。年度生活地图则把年度方向、愿望池、已实现的愿望、书影音、生活足迹与回望放在一起。
 
-## 03 · DAILY ART｜每天看一幅画
+计划和真实发生的事分开记录。生活不只有完成率，也有那些原本没有列进清单、却值得留下来的瞬间。
 
-首页像一面小小的展墙：完整画作、作品名称、画家、年代和简短展签。想继续看时，可以打开沉浸式赏画，缩放笔触与细节，阅读作品的背景、故事、观看线索及画派，并沿资料入口进一步了解。
+[月度生活看板](assets/desktop/month-dashboard.png) · [年度生活地图](assets/desktop/year-map.png)
 
-不是把艺术作为背景装饰，而是为每天留出一点独立的审美时间。即使没有艺术史基础，也可以从观察一幅画开始。
+## 04 / 为不同的阅读情境设计
 
-<p align="center">
-  <a href="assets/desktop/daily-art-and-news.png"><img src="assets/desktop/daily-art-and-news.png" width="820" alt="每日画作展签与新闻卡片"></a>
-</p>
+桌面宽屏以分栏、目录和图文并置组织信息；手机用自然的纵向阅读、横滑和按需展开承载同样的内容。深色主题保留相同的视觉层级和功能。
 
-## 04 · NEWS｜和外面的世界保持联系
+<p align="center"><a href="assets/README.md"><strong>浏览完整实机图册 →</strong></a></p>
 
-新闻以短篇剪报呈现，保留分类、标题、摘要和来源入口。桌面并排阅读，手机横向滑动，长内容按需展开。
-
-设计目标不是复刻一个无限滚动的信息流，而是在自己的日常之外提供少量阅读线索。截图中的新闻是明确标注的演示专题，并非实际新闻报道。
-
-## 05 · TODAY'S EXPLORATION｜让知识重新流动
-
-收藏的知识如果只有搜索入口，就需要我们主动想起它。探索区提供四种不同的阅读方式，每次选择一个即可，不必把它们变成新的每日任务。
-
-| 模块 | 设计目的 |
-| --- | --- |
-| 随机重逢 · 拍立得 | 随机遇见一篇旧笔记，看到它是什么时候写下的，重新建立联系。 |
-| 今日抽卡 · 票根 | 从笔记中提出问题，先回想，再翻看参考答案，练习主动回忆。 |
-| 今日延伸 · 信笺 | 从已有知识走向相邻领域，提供新的探索方向和参考资料。 |
-| 今日一读 · 引文卡 | 将已有内容串联、复核或放进新的问题里，形成一段可独立阅读的文字。 |
-
-<p align="center">
-  <a href="assets/desktop/exploration-rediscover.png"><img src="assets/desktop/exploration-rediscover.png" width="820" alt="桌面探索：左侧阅读卡、右侧四项目录"></a>
-</p>
-<p align="center">
-  <a href="assets/mobile/exploration-rediscover.png"><img src="assets/mobile/exploration-rediscover.png" width="185" alt="随机重逢"></a>
-  <a href="assets/mobile/exploration-flashcard.png"><img src="assets/mobile/exploration-flashcard.png" width="185" alt="今日抽卡"></a>
-  <a href="assets/mobile/exploration-discover.png"><img src="assets/mobile/exploration-discover.png" width="185" alt="今日延伸"></a>
-  <a href="assets/mobile/exploration-daily-read.png"><img src="assets/mobile/exploration-daily-read.png" width="185" alt="今日一读"></a>
-</p>
-
-## 06 · 月度生活看板与年度生活地图
-
-首页之外，还有两个可以来回跳转的时间尺度。
-
-**月度生活看板**汇总当月方向与每周安排，也保留月度回望与日记入口。计划与实际经历分开呈现，不把还没做的事情算作已经发生。
-
-**年度生活地图**把年度方向、愿望池、已经实现的愿望、看过的书影音、生活足迹与年度回望放在一起。除了目标完成情况，也关心那些没有预先写进计划、却值得留下来的经历。
-
-<p align="center">
-  <a href="assets/desktop/month-dashboard.png"><img src="assets/desktop/month-dashboard.png" width="420" alt="月度生活看板"></a>
-  <a href="assets/desktop/year-map.png"><img src="assets/desktop/year-map.png" width="420" alt="年度生活地图"></a>
-</p>
-
-## 07 · 桌面、手机与深浅主题
-
-宽屏利用横向空间，生活区分栏、赏画图文并置，探索区使用目录与阅读卡。手机则沿着一条自然的纵向阅读流，借助页签、横滑与按需展开完成相同的任务。
-
-深色主题沿用相同的信息层级与视觉语义，以炭灰纸面和主题强调色适应不同阅读环境。统一的是设计语言和功能，而不是强行复制同一套布局。
-
-<p align="center">
-  <a href="assets/mobile/everyday-overview.png"><img src="assets/mobile/everyday-overview.png" width="230" alt="浅色主题首页"></a>
-  <a href="assets/mobile/dark-everyday.png"><img src="assets/mobile/dark-everyday.png" width="230" alt="深色主题首页"></a>
-  <a href="assets/mobile/dark-exploration.png"><img src="assets/mobile/dark-exploration.png" width="230" alt="深色主题新闻和知识探索"></a>
-</p>
-
-[查看全部实机截图与交互状态 →](assets/README.md)
-
-## AI 作为杂志的编辑，而不是首页的主角
-
-现有个人版本基于 Obsidian、Markdown、CSS snippets 与 DataviewJS。日更画作、简讯和部分知识探索由独立 AI 工作流辅助筛选与整理，内容更新与页面样式、原始笔记分离。
-
-AI 工作流需要另行配置及运行，并不是 Obsidian 自带的每日更新能力。正式模板的具体功能范围、自动化配置及兼容性要求将在发布时说明。
+> 展示图为真实界面局部的编辑式组合，使用演示数据；新闻是演示专题。原始截图及更多交互状态保留在实机图册中。
 
 ## 关注上架
 
-当前仓库公开的是个人版本的设计与演示数据预览，**不是可安装的完整模板**。正式模板计划付费发布，价格、上架时间和安装要求以发布公告为准。
+**Personal Magazine 完整模板 · 筹备中**
 
-想收到上架消息，可以在仓库顶部选择 **Watch → Custom → Releases**。
+当前公开仓库是产品预览，不是可安装的完整模板。现有个人版本基于 Obsidian、Markdown、CSS snippets 与 DataviewJS，计划将其整理为独立、可安装的付费模板。
 
-[查看发布页 →](https://github.com/jadecoltrane/Obsidian-Home/releases) · [进一步阅读设计取舍 →](docs/design-notes.md)
+| 你可能想知道 | 目前的情况 |
+| :--- | :--- |
+| 什么时候能买？ | 尚未上架；购买入口、价格和交付范围将在正式发布时公布。 |
+| 如何安装？ | 计划提供独立模板、演示数据与安装指南；兼容性和插件要求仍需验证。 |
+| 每日内容会自动更新吗？ | 现有个人版本通过独立 AI 工作流辅助更新；这并非 Obsidian 原生能力，需要额外配置与运行成本。正式版支持范围待公布。 |
+| GitHub 发行版是付费下载吗？ | 不是。这里的 Releases 用于版本公告及可能的免费体验文件；正式付费文件将通过独立购买渠道交付。 |
+
+想收到发布消息，可在仓库顶部选择 **Watch → Custom → Releases**。
+
+<p align="center"><a href="https://github.com/jadecoltrane/Obsidian-Home/releases"><strong>查看发行公告 →</strong></a> &nbsp; · &nbsp; <a href="docs/design-notes.md">了解设计背后的思考</a></p>
